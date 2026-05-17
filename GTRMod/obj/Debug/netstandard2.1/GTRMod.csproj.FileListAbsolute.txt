@@ -1,0 +1,15 @@
+C:\Users\Tspan\Desktop\ROR2 modding\HenryTutorial\HenryTutorial-master\HenryMod\obj\Debug\netstandard2.1\GTRMod.csproj.AssemblyReference.cache
+C:\Users\Tspan\Desktop\ROR2 modding\HenryTutorial\HenryTutorial-master\HenryMod\obj\Debug\netstandard2.1\GTRMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tspan\Desktop\ROR2 modding\HenryTutorial\HenryTutorial-master\HenryMod\obj\Debug\netstandard2.1\GTRMod.AssemblyInfoInputs.cache
+C:\Users\Tspan\Desktop\ROR2 modding\HenryTutorial\HenryTutorial-master\HenryMod\obj\Debug\netstandard2.1\GTRMod.AssemblyInfo.cs
+C:\Users\Tspan\Desktop\ROR2 modding\HenryTutorial\HenryTutorial-master\HenryMod\obj\Debug\netstandard2.1\GTRMod.csproj.CoreCompileInputs.cache
+C:\Users\Tspan\Desktop\ROR2 modding\GTRaptorMod\GTR-master\GTRMod\bin\Debug\netstandard2.1\GTRMod.deps.json
+C:\Users\Tspan\Desktop\ROR2 modding\GTRaptorMod\GTR-master\GTRMod\bin\Debug\netstandard2.1\GTRMod.dll
+C:\Users\Tspan\Desktop\ROR2 modding\GTRaptorMod\GTR-master\GTRMod\bin\Debug\netstandard2.1\GTRMod.pdb
+C:\Users\Tspan\Desktop\ROR2 modding\GTRaptorMod\GTR-master\GTRMod\obj\Debug\netstandard2.1\GTRMod.csproj.AssemblyReference.cache
+C:\Users\Tspan\Desktop\ROR2 modding\GTRaptorMod\GTR-master\GTRMod\obj\Debug\netstandard2.1\GTRMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tspan\Desktop\ROR2 modding\GTRaptorMod\GTR-master\GTRMod\obj\Debug\netstandard2.1\GTRMod.AssemblyInfoInputs.cache
+C:\Users\Tspan\Desktop\ROR2 modding\GTRaptorMod\GTR-master\GTRMod\obj\Debug\netstandard2.1\GTRMod.AssemblyInfo.cs
+C:\Users\Tspan\Desktop\ROR2 modding\GTRaptorMod\GTR-master\GTRMod\obj\Debug\netstandard2.1\GTRMod.csproj.CoreCompileInputs.cache
+C:\Users\Tspan\Desktop\ROR2 modding\GTRaptorMod\GTR-master\GTRMod\obj\Debug\netstandard2.1\GTRMod.dll
+C:\Users\Tspan\Desktop\ROR2 modding\GTRaptorMod\GTR-master\GTRMod\obj\Debug\netstandard2.1\GTRMod.pdb
